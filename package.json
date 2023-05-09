@@ -1,6 +1,6 @@
 {
   "name": "pizza-testcomponent",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "main": "./dist/pizza.umd.js",
   "module": "./dist/pizza.es.js",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "pinia": "^2.0.35",
-    "pizza-testcomponent": "^0.0.1",
+    "pizza-testcomponent": "^0.0.2",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6",
     "vuetify": "^3.2.2"
