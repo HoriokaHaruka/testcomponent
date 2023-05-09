@@ -2,13 +2,10 @@
 </script>
 
 <template>
- <button class="custom-button">
+ <v-btn>
    <slot />
- </button>
+ </v-btn>
 </template>
 
 <style scoped>
-.custom-button {
-  background-color: #000
-}
 </style>

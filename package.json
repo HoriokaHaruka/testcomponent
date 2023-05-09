@@ -1,5 +1,5 @@
 {
-  "name": "testcomponent",
+  "name": "pizza-testcomponent",
   "version": "0.0.0",
   "private": false,
   "main": "./dist/pizza.umd.js",
@@ -28,8 +28,10 @@
   },
   "dependencies": {
     "pinia": "^2.0.35",
+    "pizza-testcomponent": "^0.0.0",
     "vue": "^3.2.47",
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "vuetify": "^3.2.2"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
